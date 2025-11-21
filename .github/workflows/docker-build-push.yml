@@ -32,4 +32,4 @@ jobs:
         run: docker build -t thanmayee25/refunds-api .
 
       - name: Push Docker image
-        run: docker push hkshitesh/demorefund 
+        run: docker push thanmayee25/refunds-api 
